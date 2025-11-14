@@ -5,28 +5,29 @@ import { MapPin, Clock, Users } from "lucide-react";
 
 const sampleTasks = [
   {
-    title: "Help Senior Citizen with Groceries",
-    description: "Need assistance with weekly grocery shopping and carrying items to apartment.",
-    category: "Shopping Assistance",
-    location: "Downtown, City Center",
-    time: "2 hours",
-    volunteers: "1 needed",
+   title: "Event Safety Monitor 🚨",
+    description: "Ensure the safety of participants during school events by monitoring areas, guiding attendees, and responding to any issues.",
+    category: "Event Safety",
+    location: "School Campus",
+    time: "3 hours",
+    volunteers: "3 needed",
     urgent: true,
+
   },
   {
-    title: "Tutor High School Students",
-    description: "Volunteer tutors needed for math and science subjects. Flexible schedule.",
+    title: "Guide First-Year College Students 💡",
+    description: "Help freshmen adjust to college life and provide support with academic tasks. Flexible schedule.",
     category: "Education",
-    location: "Community Center",
+    location: "Net Central Gaming Center NCGC",
     time: "3 hours/week",
     volunteers: "3 needed",
-    urgent: false,
+
   },
   {
-    title: "Community Garden Cleanup",
-    description: "Join us for a community garden cleanup and maintenance session this weekend.",
+    title: "Tree Planting Activity 🌱",
+    description: "Help plant trees and create a greener space in and around the school or nearby community areas.",
     category: "Environment",
-    location: "Green Valley Park",
+    location: "School Campus / Nearby Park",
     time: "4 hours",
     volunteers: "10 needed",
     urgent: false,
